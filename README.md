@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'M Gustavo! 🤙
 
-<!--
-**gusshmelo/gusshmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product & UX / UI Designer Freelancer <br>
+Development Team Leader at CERS <br>
+Recife, PE - Brazil 🇧🇷 <br>
 
-Here are some ideas to get you started:
+### I’m currently learning 📚
+Product management <br>
+Design <br>
+Front-end development <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently working on 💼
+my portfolio <br>
+A blog related a product, design and development <br>
+A blog related a games <br>
+  
+
+### How to find me 🔗
+[Site](https://gustavomelo.com.br) <br>
+[Linkedin](https://linkedin.com/in/gusshmelo) <br>
+[X](https://x.com/gusshmelo) <br>
+[Instagram](https://instagram.com/gusshmelo) <br>
+

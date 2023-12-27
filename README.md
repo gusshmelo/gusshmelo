@@ -11,8 +11,8 @@ Front-end development <br>
 
 ### I’m currently working on 💼
 my portfolio <br>
-A blog related a product, design and development <br>
-A blog related a games <br>
+A blog related to product, design and development <br>
+A blog related to games <br>
   
 
 ### How to find me 🔗

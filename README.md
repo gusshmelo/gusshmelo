@@ -9,9 +9,13 @@ Design <br>
 Front-end <br>
 
 ### I’m currently working on 💼
-my portfolio <br>
-A blog related to product, design and development <br>
-A blog related to games <br>
+CERS E-commerce <br>
+CERS mobile app <br>
+CERS LMS <br>
+CERS manager <br>
+my personal website <br>
+my personal blog about product, design and development <br>
+minhajogatina website <br>
   
 
 ### How to find me 🔗

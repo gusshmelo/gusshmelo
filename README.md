@@ -1,6 +1,6 @@
 ### Hi I'm Gustavo! 🤙
 
-Product & UX / UI Designer - Team Leader at CERS <br>
+Product & UX / UI Designer at CERS | Front-end developer freelancer<br>
 Recife, PE - Brazil 🇧🇷 <br>
 
 ### I’m currently learning 📚

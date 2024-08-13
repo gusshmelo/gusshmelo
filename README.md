@@ -15,7 +15,8 @@ CERS LMS <br>
 CERS manager <br>
 my personal website <br>
 my personal blog about product, design and development <br>
-minhajogatina website <br>
+Secret project - Mobile * 🚙  <br>
+Secret project - Web * 👨‍🎓 <br>
   
 
 ### How to find me 🔗

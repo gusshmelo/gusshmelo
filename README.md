@@ -1,6 +1,6 @@
 ### Hi I'm Gustavo! 🤙
 
-Product & UX / UI Designer | Front-end developer<br>
+Product Designer<br>
 Recife, PE - Brazil 🇧🇷 <br>
 
 ### I’m currently learning 📚
